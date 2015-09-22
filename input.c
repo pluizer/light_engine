@@ -1,5 +1,5 @@
 /**
-Copyright (c) 2013 Richard van Roy (pluizer)
+Copyright (c) 2014 Richard van Roy (pluizer)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
